@@ -14,7 +14,7 @@ Chrome Driver
 
 # What exactly from Yahoo Finance do you obtain?
 
-<img src="https://i.imgur.com/dOpAUr1.jpg =250x250" width="250">
+<img src="https://i.imgur.com/dOpAUr1.jpg =250x250" width="500">
 
 # Configuration
 
