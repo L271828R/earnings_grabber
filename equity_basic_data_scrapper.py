@@ -167,7 +167,6 @@ if __name__ == '__main__':
     except:   
         print("Could not connect to MongoDB") 
     driver = create_driver(conf)
-    print(sys.argv)
     page = Page(driver, conf)
     if len(sys.argv) > 1:
         ticker = sys.argv[1]
