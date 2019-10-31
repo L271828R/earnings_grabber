@@ -18,6 +18,8 @@ Chrome Driver
 
 
 
+<img src="https://i.imgur.com/dOpAUr1.jpg =250x250" width="48">
+
 # Configuration
 
 Enter your favorite tickers in tickers.py
