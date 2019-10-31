@@ -129,7 +129,7 @@ def create_driver(conf):
     chrome_options = Options()
     if conf["headless"]:
         chrome_options.add_argument("--headless")
-    return  webdriver.Chrome(".//chromedriver", chrome_options=chrome_options)
+    return  webdriver.Chrome("..//chromedriver", chrome_options=chrome_options)
 
 def is_saved(conn, ticker):
     return False

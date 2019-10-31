@@ -14,7 +14,7 @@ based on a list of tickers.
 
 # What exactly from Yahoo Finance do you obtain?
 
-<img src="https://i.imgur.com/dOpAUr1.jpg =250x250" width="500">
+<img src="https://i.imgur.com/dOpAUr1.jpg" width="500">
 
 # Configuration
 
@@ -24,3 +24,6 @@ Enter your favorite tickers in tickers.py
 # How to Run?
 
 python earnings_grabber.py
+
+<img src="https://i.imgur.com/G8X5YIr.jpg" width="500">
+
