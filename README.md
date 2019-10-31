@@ -6,11 +6,11 @@ based on a list of tickers.
 
 # Dependencies
 
-Python3
-selenium
-MongoClient
+* Python3
+* selenium
+* MongoClient
 
-Chrome Driver
+* Chrome Driver
 
 # What exactly from Yahoo Finance do you obtain?
 
