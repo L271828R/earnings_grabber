@@ -14,7 +14,7 @@ Chrome Driver
 
 # What exactly from Yahoo Finance do you obtain?
 
-![running earnings_grabber](https://i.imgur.com/dOpAUr1.jpg)
+![running earnings_grabber](https://i.imgur.com/dOpAUr1.jpg =250x250)
 
 
 
