@@ -1,8 +1,15 @@
 # Description
 
-Would you like to have the earnings dates of your favorite stocks saved
-on a database? This program scrapes yahoo finance for the earnings date
-based on a list of tickers.
+Would you like to have the following data from your favorite stocks saved to a database:
+
+*  earnings dates 
+*  market cap  
+*  street address
+*  business sector
+*  industry
+*  number of employees 
+
+This program scrapes yahoo finance for just that information based on a list of tickers.
 
 # Dependencies
 
@@ -23,7 +30,7 @@ Enter your favorite tickers in tickers.py
 
 # How to Run?
 
-python earnings_grabber.py
+python equity_basic_data_scrapper.py
 
 <img src="https://i.imgur.com/G8X5YIr.jpg" width="500">
 
